@@ -17,12 +17,12 @@
   },
   "homepage": "https://github.com/hackathon-climat-05/data-microservice#readme",
   "dependencies": {
-    "@hackathon-climat-05/common-lib": ">=0.0.0"
+    "@hackathon-climat-05/common-lib": ">=0.0.0",
+    "ts-node": "^10.8.1"
   },
   "devDependencies": {
     "@types/express": "^4.17.13",
     "@types/node": "^18.0.0",
-    "nodemon": "^2.0.18",
-    "ts-node": "^10.8.1"
+    "nodemon": "^2.0.18"
   }
 }
